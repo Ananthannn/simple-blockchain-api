@@ -95,8 +95,15 @@ MIT License
 
 ---
 
-## 🙋‍♂️ Questions?
+---
 
-Feel free to open an issue or fork the repo and contribute!
+## 🌐 Connect with Me
 
-🔗 [GitHub: Ananthannn/simple-blockchain-api](https://github.com/Ananthannn/simple-blockchain-api)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/v_ananthann_?igsh=MWFlcHo5a2pvNm5yaA==)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v-anantha-krishnan-739b942a5/)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:vananthakrs@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://github.com/Ananthannn)
+
+---
+
+> Made with ❤️ by V Anantha Krishnan
